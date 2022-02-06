@@ -1,0 +1,32 @@
+a {
+    font-size: 20px;
+    margin: 35px;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+.navbar{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+img{
+    height: 85px;
+    border-radius: 100%;
+}
+iframe{
+    margin-left: 200px;
+}
+body{
+    background: url(about.jpg);
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+body{
+    font-family: 'Righteous', cursive;
+}
